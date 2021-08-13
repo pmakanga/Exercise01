@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aAixQUsumWnyvNz//CcTPwfaO8CK1RyWhS1CstumUCOBiCRKLQpehi6rdo8lRiEyChmhBnEpnvrZ1C12Im594g==",
+  "success": true,
+  "projectFilePath": "D:\\Personal\\TechoBrain Interview questions\\Exercise01\\Exercise01\\Exercise01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

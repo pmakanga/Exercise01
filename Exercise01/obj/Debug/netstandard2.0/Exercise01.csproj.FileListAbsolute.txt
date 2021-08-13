@@ -1,0 +1,9 @@
+D:\Personal\TechoBrain Interview questions\Exercise01\Exercise01\bin\Debug\netstandard2.0\Exercise01.deps.json
+D:\Personal\TechoBrain Interview questions\Exercise01\Exercise01\bin\Debug\netstandard2.0\Exercise01.dll
+D:\Personal\TechoBrain Interview questions\Exercise01\Exercise01\bin\Debug\netstandard2.0\Exercise01.pdb
+D:\Personal\TechoBrain Interview questions\Exercise01\Exercise01\obj\Debug\netstandard2.0\Exercise01.csprojAssemblyReference.cache
+D:\Personal\TechoBrain Interview questions\Exercise01\Exercise01\obj\Debug\netstandard2.0\Exercise01.AssemblyInfoInputs.cache
+D:\Personal\TechoBrain Interview questions\Exercise01\Exercise01\obj\Debug\netstandard2.0\Exercise01.AssemblyInfo.cs
+D:\Personal\TechoBrain Interview questions\Exercise01\Exercise01\obj\Debug\netstandard2.0\Exercise01.csproj.CoreCompileInputs.cache
+D:\Personal\TechoBrain Interview questions\Exercise01\Exercise01\obj\Debug\netstandard2.0\Exercise01.dll
+D:\Personal\TechoBrain Interview questions\Exercise01\Exercise01\obj\Debug\netstandard2.0\Exercise01.pdb
